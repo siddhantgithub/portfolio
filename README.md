@@ -5,5 +5,5 @@ Collaborative Filtering + NLP based book recommendation engine
 
 ## Play & Stem Uni
 Generative AI based application using Prompt Engineering and OpenAI API to teach Python programming
-Try the application [Here!](https://uni.playandstem.com) 
+##### Try the application [Here!](https://uni.playandstem.com) 
 ##### [GitHub Link](https://github.com/siddhantgithub/PlayAndStem)
