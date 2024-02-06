@@ -1,6 +1,6 @@
 # Recent Projects
 ## Librobuddy 
-Collaborative Filtering + NLP based book recommendation engine
+Collaborative Filtering + NLP based book recommendation engine that recommends books based on a user's personality
 ##### [GitHub Link](https://github.com/siddhantgithub/LibroBuddy)
 
 ## Play & Stem Uni
