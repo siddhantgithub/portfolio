@@ -1,5 +1,4 @@
-# Welcome!!!
-### Projects
+# Recent Projects
 ## Librobuddy 
 Collaborative Filtering + NLP based book recommendation engine
 #### Description: 
